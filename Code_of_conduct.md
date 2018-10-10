@@ -1,0 +1,35 @@
+## Smith Ecophysiology Lab Code of Conduct
+
+The lab is not just a workspace. 
+The lab is a group of scientists working together to achieve individual and collective goals.
+
+The actions of our lab members are a reflection of the lab as a whole.
+In this lab, we value inclusivity and do not tolerate discrimination of any kind, for any reason.
+We value tolerance and lab members are expected to respect each other as well as those in the TTU community and beyond.
+
+We expect all lab members and visitors to adhere to the following:
+* Don't be a jerk.
+* Respect others, including those with beliefs different from yours.
+* Behave professionally. This includes refraining from any form of harassment, discriminatory speech, and inappropriate jokes.
+* If you are unsure whether a comment or action is inappropriate, refraining from saying or doing such action.
+* Include others. 
+* Do not compete with fellow lab members. Instead, work together when possible.
+* Refrain from singling out mistakes.
+
+All forms of discrimination are inappropriate, but include discrimination based on
+gender, sexual orientation, disability, physical appearance, body size, race, religion.
+All forms of harassment are inappropriate, but include 
+deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+
+All lab members will be expected to comply with this code of conduct at all times.
+Any lab member found to be in breech of the code of conduct will be asked to comply immediately.
+
+Any and all complaints can be sent to [Nick Smith](mailto:nick.smith@ttu.edu).
+All communication will be confidential.
+
+
+
+*The material in this code of conduct was developed in part using 
+"[Bahlai Lab Code of Conduct](https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md)" 
+by Dr. Christie Bahlai.*
+
