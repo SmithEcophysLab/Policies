@@ -5,13 +5,14 @@ The lab is a group of scientists working together to achieve individual and coll
 
 The actions of our lab members are a reflection of the lab as a whole.
 In this lab, we value inclusivity and do not tolerate discrimination of any kind, for any reason.
-We value tolerance and lab members are expected to respect each other as well as those in the TTU community and beyond.
+We value each individual and making the lab a welcoming place for all. Lab members are expected to respect each other as well as those in the TTU community and beyond.
 
 We expect all lab members and visitors to adhere to the following:
 * Don't be a jerk.
 * Respect others, including those with beliefs different from yours.
 * Behave professionally. This includes refraining from any form of harassment, discriminatory speech, and inappropriate jokes.
 * If you are unsure whether a comment or action is inappropriate, refrain from saying or doing such action.
+* If someone comments that your actions or speech are inappropriate, do not get defensive. Listen. Learn. Do better next time. 
 * Include others. 
 * Do not compete with fellow lab members. Instead, work together when possible.
 * Refrain from singling out mistakes.
