@@ -12,7 +12,7 @@ Members of the Smith lab are scientists.
 They are not individuals working on behalf of a scientist.
 As such, all lab members have an equal say in the work that is performed by the lab.
 As such, lab members are viewed as collaborators first and foremost.
-This means that studnets, postdocs, and the PI will be responsible for their own destiny.
+This means that students, postdocs, and the PI will be responsible for their own destiny.
 This also means that our relationships are reciprocal.
 I hope to learn from you as you learn from me.
 
