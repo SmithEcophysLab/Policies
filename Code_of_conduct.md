@@ -11,7 +11,7 @@ We expect all lab members and visitors to adhere to the following:
 * Don't be a jerk.
 * Respect others, including those with beliefs different from yours.
 * Behave professionally. This includes refraining from any form of harassment, discriminatory speech, and inappropriate jokes.
-* If you are unsure whether a comment or action is inappropriate, refraining from saying or doing such action.
+* If you are unsure whether a comment or action is inappropriate, refrain from saying or doing such action.
 * Include others. 
 * Do not compete with fellow lab members. Instead, work together when possible.
 * Refrain from singling out mistakes.
