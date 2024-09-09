@@ -25,6 +25,13 @@ deliberate intimidation, stalking, following, harassing photography or recording
 All lab members will be expected to comply with this code of conduct at all times.
 Any lab member found to be in breech of the code of conduct will be asked to comply immediately.
 
+**Conflict resolution**
+If you and someone else are having issues, the first step should be to try and discuss and resolve the issues with that person.
+If that doesn't work or you do not feel comfortable approaching that person, you should reach out to a superior. Suggested
+superiors include Nick, the graduate program coordinator, and/or appropriate administrative offices.
+Under no circumstances should you gossip negatively behind someone's back. Try instead to resolve conflicts through the
+avenues listed above.
+
 Any and all complaints can be sent to [Nick Smith](mailto:nick.smith@ttu.edu).
 All communication will be confidential.
 
