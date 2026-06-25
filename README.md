@@ -1,6 +1,6 @@
 ## README.md
 
-Repository for various PhUnFETTy Lab (PI: Nick Smith) policies.
+Repository for various PhUnFETTy Lab (PI: Nick Smith) policies
 
 ## Repository setup
 - The [general_guidelines.md](general_guidelines.md) file contains general guidelines
